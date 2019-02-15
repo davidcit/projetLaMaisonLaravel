@@ -1,0 +1,23 @@
+.imgModSmall{
+    margin-bottom: 1rem;
+    width: 100px;
+}
+.imgModLarge{
+    width: 490px;
+}
+.mb{
+    margin-bottom: inherit;
+    border-radius: inherit;
+}
+body{
+    background-image: linear-gradient(to top right, rgba(0, 96, 151, 0.959), rgb(223, 225, 226));
+}
+p ,h3 a, h2, .mycolor{
+    color: bisque
+}
+.yellow{
+    color:#FFC107;
+}
+.green{
+    color:rgb(110, 233, 139);
+}
